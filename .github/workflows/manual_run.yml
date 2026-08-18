@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Hello
+      - name: Hello job
         run: echo "Workflow started manually !"
